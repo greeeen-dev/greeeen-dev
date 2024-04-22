@@ -14,4 +14,4 @@ Unifier is a sophisticated bridge bot that unites servers in Discord, Revolt, an
 # Visual novel
 too WIP to show it off yet, sorry
 
-[![Green's GitHub stats](https://github-readme-stats.vercel.app/api?username=greeeen-dev&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+[![Green's GitHub stats](https://github-readme-stats.vercel.app/api?username=greeeen-dev&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
