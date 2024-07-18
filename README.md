@@ -1,17 +1,17 @@
-# hi, i'm green
-I'm just a programmer who codes as a hobby.
+# <img height=48 src="https://github.com/user-attachments/assets/e03fcf92-e156-4f04-9e88-28f6e31d3b6e"> hi, i'm green
 
-- 🔭 Working on: Unifier and also a visual novel 👀
+i'm just a programmer who codes as a hobby.
+
+- 🔭 Working on: Unifier
+- 🤩 Favorite language: Python
 - 🌱 Currently learning: Java (and hopefully C/C++ in the future)
 - 🤝 Collaborating with: @NullyIsHere
 
-# Unifier
-Unifier is a sophisticated bridge bot that unites servers in Discord, Revolt, and Guilded. It has multi-server support, so you can add as many servers as you'd like to the group. Do note that the Micro version only supports Discord.
+----
+
+I'm the lead developer of Unifier, a sophisticated bridge bot that unites servers across platforms. I aim to make this the best bridge/global chat bot out there, so we can connect with more people and escape from being locked in to a single platform, because this is what a lot of people I know and I want to have.
 
 - [Unifier](https://github.com/UnifierHQ/unifier)
-- [Unifier Micro](https://github.com/UnifierHQ/unifier-micro)
-
-# Visual novel
-too WIP to show it off yet, sorry
+- [Unifier Micro](https://github.com/UnifierHQ/unifier-micro) (Unifier, but core features only)
 
 [![Green's GitHub stats](https://github-readme-stats.vercel.app/api?username=greeeen-dev&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
