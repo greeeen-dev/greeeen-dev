@@ -15,3 +15,6 @@ I'm the lead developer of Unifier, a sophisticated bridge bot that unites server
 - [Unifier Micro](https://github.com/UnifierHQ/unifier-micro) (Unifier, but core features only)
 
 [![Green's GitHub stats](https://github-readme-stats.vercel.app/api?username=greeeen-dev&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greeeen-dev)
+
