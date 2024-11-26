@@ -5,7 +5,7 @@ i'm just a programmer who codes as a hobby.
 - 🔭 Working on: Unifier
 - 🤩 Favorite language: Python
 - ✌️ Fluent with: Python, Java, HTML, CSS
-- 🌱 Currently learning: JavaScript, C/C++
+- 🌱 Currently learning: JavaScript, C/C++, Rust
 - 🤝 Collaborating with: @UnifierHQ team
 
 ----
