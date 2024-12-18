@@ -2,7 +2,7 @@
 
 i'm just a programmer who codes as a hobby.
 
-- 🔭 Working on: Unifier
+- 🔭 Working on: [Unifier](https://github.com/UnifierHQ/unifier), [Natsumi Browser (Zen Browser skin)](https://github.com/greeeen-dev/natsumi-browser)
 - 🤩 Favorite language: Python
 - ✌️ Fluent with: Python, Java, HTML, CSS
 - 🌱 Currently learning: JavaScript, C/C++, Rust
