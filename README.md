@@ -3,11 +3,11 @@
 i'm just a programmer who codes as a hobby.
 
 ## Stats
-- 🔭 Working on: [Unifier](https://github.com/UnifierHQ/unifier), [Natsumi Browser (Zen Browser skin)](https://github.com/greeeen-dev/natsumi-browser)
+- 🔭 Working on: [Unifier](https://github.com/UnifierHQ/unifier), [Natsumi Browser (Zen Browser skin)](https://github.com/greeeen-dev/natsumi-browser), [Silkthemes (Zen Browser custom theme manager)](https://github.com/Silkbrush)
 - 🤩 Favorite language: Python
 - ✌️ Fluent with: Python, Java, HTML, CSS
 - 🌱 Currently learning: JavaScript, C/C++, Rust
-- 🤝 Collaborating with: @UnifierHQ team
+- 🤝 Collaborating with: @UnifierHQ team, @Silkbrush collective
 
 [![Green's GitHub stats](https://github-readme-stats.vercel.app/api?username=greeeen-dev&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,3 +28,9 @@ I also work on other skins, like Zenfox and Haruki Inbox. These aren't as active
 - [Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser)
 - ~~[Zenfox](https://github.com/greeeen-dev/zenfox)~~ (coming soon)
 - [Haruki Inbox](https://github.com/greeeen-dev/haruki-inbox)
+
+### Silkthemes
+I'm the leader of the Silkbrush collective, and we work on Silkthemes. Silkthemes is an independent, community-ran alternative to Zen Mods featuring many needed improvements, developed by the Silkbrush collective.
+
+- [Theme store](https://github.com/Silkbrush/theme-store)
+- [Zen Explorer (frontend)](https://github.com/Silkbrush/zen-explorer)
