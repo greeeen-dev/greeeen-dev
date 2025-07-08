@@ -3,7 +3,7 @@
 i'm just a programmer who codes as a hobby.
 
 ## Stats
-- 🔭 Working on: [Unifier](https://github.com/UnifierHQ/unifier), [Natsumi Browser (Zen Browser skin)](https://github.com/greeeen-dev/natsumi-browser), [Silkthemes (Zen Browser custom theme manager)](https://github.com/Silkbrush)
+- 🔭 Working on: [Unifier](https://github.com/UnifierHQ/unifier), [Natsumi Browser (Zen Browser skin)](https://github.com/greeeen-dev/natsumi-browser), [Silkthemes (Firefox custom theme manager)](https://github.com/Silkbrush)
 - 🤩 Favorite language: Python
 - ✌️ Fluent with: Python, Java, HTML, CSS
 - 🌱 Currently learning: JavaScript, C/C++, Rust
@@ -21,7 +21,7 @@ I'm the lead developer of Unifier, a sophisticated bridge bot that unites server
 - [Unifier Micro](https://github.com/UnifierHQ/unifier-micro) (Unifier, but core features only)
 
 ### Natsumi Browser (& other skins)
-I also work on Natsumi Browser, a skin for Zen Browser. It's my most popular project and honestly I have NO IDEA why, especially since it's just a bunch of CSS files that aren't really as advanced as my other projects.
+I also work on Natsumi Browser, a skin for Firefox and its forks (except Zen Browser because the main developer thinks he has taste in design and nobody else does).
 
 I also work on other skins, like Zenfox and Haruki Inbox. These aren't as actively maintained as Unifier and Natsumi are.
 
