@@ -26,7 +26,6 @@ I also work on Natsumi Browser, a skin for Firefox and its forks (except Zen Bro
 I also work on other skins, like Zenfox and Haruki Inbox. These aren't as actively maintained as Unifier and Natsumi are.
 
 - [Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser)
-- ~~[Zenfox](https://github.com/greeeen-dev/zenfox)~~ (coming soon)
 - [Haruki Inbox](https://github.com/greeeen-dev/haruki-inbox)
 
 ### Silkthemes
