@@ -3,7 +3,7 @@
 i'm just a programmer who codes as a hobby.
 
 ## Stats
-- 🔭 Working on: [Unifier](https://github.com/UnifierHQ/unifier), [Natsumi Browser (Zen Browser skin)](https://github.com/greeeen-dev/natsumi-browser), [Silkthemes (Firefox custom theme manager)](https://github.com/Silkbrush)
+- 🔭 Working on: [Unifier](https://github.com/UnifierHQ/unifier), [Natsumi Browser (mod for Firefox & forks)](https://github.com/greeeen-dev/natsumi-browser), [Silkthemes (Firefox custom theme manager)](https://github.com/Silkbrush)
 - 🤩 Favorite language: Python
 - ✌️ Fluent with: Python, Java, HTML, CSS
 - 🌱 Currently learning: JavaScript, C/C++, Rust
