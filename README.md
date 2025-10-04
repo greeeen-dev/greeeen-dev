@@ -21,12 +21,11 @@ I'm the lead developer of Unifier, a sophisticated bridge bot that unites server
 - [Unifier Micro](https://github.com/UnifierHQ/unifier-micro) (Unifier, but core features only)
 
 ### Natsumi Browser (& other skins)
-I also work on Natsumi Browser, a skin for Firefox and its forks (except Zen Browser because the main developer thinks he has taste in design and nobody else does).
+I also work on Natsumi Browser, a skin for Firefox and its forks. It's meant to make your browser even more customizable than it already is while adding extra goodies as well. Somehow the head of open source at Mozilla and developers of Floorp and Firedragon noticed this, I'm not sure how that happened but I'm still proud of it.
 
-I also work on other skins, like Zenfox and Haruki Inbox. These aren't as actively maintained as Unifier and Natsumi are.
+(Note: Natsumi doesn't support Zen Browser. I have my reasons why, so please don't try to make it compatible or complain too much about it.)
 
 - [Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser)
-- [Haruki Inbox](https://github.com/greeeen-dev/haruki-inbox)
 
 ### Silkthemes
 I'm the leader of the Silkbrush collective, and we work on Silkthemes. Silkthemes is an independent, community-ran alternative to Zen Mods featuring many needed improvements, developed by the Silkbrush collective.
