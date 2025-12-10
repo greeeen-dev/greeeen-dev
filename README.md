@@ -5,8 +5,8 @@ i'm just a programmer who codes as a hobby.
 ## Stats
 - 🔭 Working on: [Unifier](https://github.com/UnifierHQ/unifier), [Natsumi Browser (mod for Firefox & forks)](https://github.com/greeeen-dev/natsumi-browser)
 - 🤩 Favorite language: Python
-- ✌️ Fluent with: Python, Java, HTML, CSS
-- 🌱 Currently learning: JavaScript, C/C++, Rust
+- ✌️ Fluent with: Python, Java, JavaScript, HTML, CSS
+- 🌱 Currently learning: C/C++
 - 🤝 Collaborating with: @UnifierHQ team
 
 [![Green's GitHub stats](https://github-readme-stats.vercel.app/api?username=greeeen-dev&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
