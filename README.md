@@ -15,6 +15,9 @@ i'm just a programmer who codes as a hobby.
 
 ## My (most notable) work
 ### Unifier
+> [!NOTE]
+> This project isn't seeing much work on right now, mainly because I'm kind of burnt out from working on it. You'll probably see me working a lot more on Natsumi Browser instead.
+
 I'm the lead developer of Unifier, a sophisticated bridge bot that unites servers across platforms. I aim to make this the best bridge/global chat bot out there, so we can connect with more people and escape from being locked in to a single platform, because this is what a lot of people I know and I want to have.
 
 - [Unifier](https://github.com/UnifierHQ/unifier)
