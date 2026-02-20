@@ -3,7 +3,7 @@
 i'm just a programmer who codes as a hobby.
 
 ## Stats
-- 🔭 Working on: [Natsumi Browser (mod for Firefox & forks)](https://github.com/greeeen-dev/natsumi-browser)
+- 🔭 Working on: [Natsumi Browser (mod for Firefox & forks)](https://github.com/greeeen-dev/natsumi-browser), [Shinobu (cross-platform bridge)](https://github.com/greeeen-dev/shinobu)
 - 🤩 Favorite language: Python
 - ✌️ Fluent with: Python, Java, JavaScript, HTML, CSS
 - 🌱 Currently learning: C/C++
@@ -14,11 +14,16 @@ i'm just a programmer who codes as a hobby.
 
 ## My (most notable) work
 ### Natsumi Browser (& other skins)
-I also work on Natsumi Browser, a skin for Firefox and its forks. It's meant to make your browser even more customizable than it already is while adding extra goodies as well. Somehow the head of open source at Mozilla and developers of Floorp and Firedragon noticed this, I'm not sure how that happened but I'm still proud of it.
+I work on Natsumi Browser, a skin for Firefox and its forks. It's meant to make your browser even more customizable than it already is while adding extra goodies as well. Somehow the head of open source at Mozilla and developers of Floorp and Firedragon noticed this, I'm not sure how that happened but I'm still proud of it.
 
 (Note: Natsumi doesn't support Zen Browser. I have my reasons why, so please don't try to make it compatible or complain too much about it.)
 
 - [Natsumi Browser](https://github.com/greeeen-dev/natsumi-browser)
+
+### Shinobu
+I'm working on Shinobu, a flexible cross-platform bridge bot. It's basically the official successor to Unifier, a previous bridge bot I worked on which I abandoned due to burnout and poor code quality.
+
+- [Shinobu](https://github.com/greeeen-dev/shinobu)
 
 ### Unifier
 > [!NOTE]
@@ -27,4 +32,3 @@ I also work on Natsumi Browser, a skin for Firefox and its forks. It's meant to 
 I worked on Unifier, a sophisticated bridge bot that unites servers across platforms. It was adopted by many communities to bridge their Discord servers with other platforms, though the project has now been sunset due to personal reasons.
 
 - [Unifier](https://github.com/UnifierHQ/unifier)
-- [Unifier Micro](https://github.com/UnifierHQ/unifier-micro) (Unifier, but core features only)
