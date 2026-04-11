@@ -25,10 +25,9 @@ I'm working on Shinobu, a flexible cross-platform bridge bot. It's basically the
 
 - [Shinobu](https://github.com/greeeen-dev/shinobu)
 
-### Unifier
-> [!NOTE]
-> This project will be sunset on April 10, 2026.
+## Past work
+### Unifier (December 20, 2023 - April 10, 2026)
 
-I worked on Unifier, a sophisticated bridge bot that unites servers across platforms. It was adopted by many communities to bridge their Discord servers with other platforms, though the project has now been sunset due to personal reasons.
+I worked on Unifier, a sophisticated bridge bot that unites servers across platforms. It was adopted by many communities to bridge their Discord servers with other platforms, though the project has now been sunset due to personal reasons (mainly the codebase being too jank to maintain).
 
 - [Unifier](https://github.com/UnifierHQ/unifier)
