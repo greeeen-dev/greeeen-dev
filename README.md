@@ -8,7 +8,7 @@ i'm just a programmer who codes as a hobby.
 - ✌️ Fluent with: Python, Java, JavaScript, HTML, CSS
 - 🌱 Currently learning: C/C++
 
-[![Green's GitHub stats](https://github-readme-stats.vercel.app/api?username=greeeen-dev&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Green's GitHub stats](https://github-stats-extended.vercel.app/api?username=greeeen-dev&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 
